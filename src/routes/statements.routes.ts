@@ -8,7 +8,7 @@ import { ImportStatementController } from '../modules/statements/useCases/import
 import { ensureAuthenticated } from '../shared/infra/http/middlwares/ensureAuthenticated';
 
 const upload = multer({
-  dest: "./tmp",
+  dest: "./tmp/statements",
 });
 
 const statementRouter = Router();
