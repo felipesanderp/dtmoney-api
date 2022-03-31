@@ -6,7 +6,7 @@
   "type": "postgres",
   "host": "localhost",
   "port": 5432,
-  "database": "database_finapi",
+  "database": "database_dtmoney",
   "entities": [
     "./src/modules/**/entities/*.ts"
   ],
