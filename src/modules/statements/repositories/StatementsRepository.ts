@@ -61,4 +61,8 @@ export class StatementsRepository implements IStatementsRepository {
 
     return { balance }
   }
+
+  async delete(id: Statement): Promise<void> {
+    await this.repository.delete(id)
+  }
 }
