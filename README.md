@@ -17,19 +17,27 @@ Para utilizar essa API, você precisa das seguintes ferramentas: [Git](https://g
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/felipesanderp/dtmoney.git
+$ git clone https://github.com/felipesanderp/dtmoney-api.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd dtmoney
+$ cd dtmoney-api
 
 # Instale as dependências
 $ yarn
 
-# Execute a aplicação em modo de desenvolvimento
-$ yarn start
+# Inicie os containers do Docker
+$ docker-compose up -d
 
-O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
+# Ainda no terminal, verifique se os containers do Docker estão executando
+$ docker ps -a
+
+<Você devera ver dois containers, com nomes: dtmoney_api e database_dtmoney>
+
+# Crie as tabelas do banco de dados
+$ yarn typeorm migration:run
 ```
+
+##### Se tudo ocorreu bem, você poderá fazer as requisições para a API no endereço **http://localhost:3333** e se conectar no banco de dados Postgres no endereço localhost:5432/database_dtmoney
 
 
 ## :memo: License
