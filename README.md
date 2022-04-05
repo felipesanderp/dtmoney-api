@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="dtmoney" src="https://res.cloudinary.com/felipesanderp/image/upload/v1644600740/readme_logos/logo-dtmoney_xp56gm.svg" />
+    <img alt="dtmoney" src="https://res.cloudinary.com/felipesanderp/image/upload/v1649174913/readme_logos/logo-dtmoneyapi_yowwqg.svg" />
     <br>
 </h1>
 
