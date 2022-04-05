@@ -8,3 +8,11 @@
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
+
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/felipesanderp/dtmoney/blob/master/LICENSE) for more information.
+
+---
+
+Made with ♥ by Felipe Sander :wave: [Get in touch!](https://www.linkedin.com/in/felipesander)
