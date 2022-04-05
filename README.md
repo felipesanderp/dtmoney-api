@@ -4,10 +4,39 @@
 </h1>
 
 <p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/felipesanderp/dtmoney-api.svg">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/felipesanderp/dtmoney.svg">
+  
+   <a href="https://www.codefactor.io/repository/github/felipesanderp/dtmoney-api">
+     <img src="https://www.codefactor.io/repository/github/felipesanderp/dtmoney-api/badge"  alt="CodeFactor" />
+   </a>
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felipesanderp/dtmoney-api.svg">
+  <a href="https://github.com/felipesanderp/dtmoney-api/commits/">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/felipesanderp/dtmoney-api.svg">
+  </a>
+
+  <a href="https://github.com/felipesanderp/dtmoney-api/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/felipesanderp/dtmoney-api.svg">
+  </a>
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/felipesanderp/dtmoney-api">
+</p>
+
+<p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido como parte do curso [**Ignite**](https://www.rocketseat.com.br/ignite) da Rocketseat, com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [VSCode](https://code.visualstudio.com/)
 
 ## :information_source: Como usar
 
