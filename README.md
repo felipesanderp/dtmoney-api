@@ -66,7 +66,7 @@ $ docker ps -a
 $ yarn typeorm migration:run
 ```
 
-##### Se tudo ocorreu bem, você poderá fazer as requisições para a API no endereço **http://localhost:3333** e se conectar no banco de dados Postgres no endereço localhost:5432/database_dtmoney
+##### Se tudo ocorreu bem, você poderá fazer as requisições para a API no endereço **http://localhost:3333/api/v1** e se conectar no banco de dados Postgres no endereço localhost:5432/database_dtmoney
 
 
 ## :memo: License
