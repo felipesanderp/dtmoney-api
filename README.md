@@ -36,6 +36,14 @@ Esse projeto foi desenvolvido como parte do curso [**Ignite**](https://www.rocke
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
+- [TypeORM](https://typeorm.io/)
+- [Tsyringe](https://github.com/microsoft/tsyringe)
+- [PostgreSQL](https://www.postgresql.org/)
+- [JSONWebToken](https://github.com/auth0/node-jsonwebtoken)
+- [bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
+- [multer](https://github.com/expressjs/multer)
+- [csv-parse](https://csv.js.org/parse/)
+- [Docker](https://www.docker.com/)
 - [VSCode](https://code.visualstudio.com/)
 
 ## :information_source: Como usar
